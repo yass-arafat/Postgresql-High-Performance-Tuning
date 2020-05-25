@@ -1,0 +1,2 @@
+# Postgresql-High-Performance-Tuning
+This will contain the theoritical and practical aspects of to implement High Performance Postgres. You'll examine all the advanced aspects of PostgreSQL 12 in detail, including logical replication, database clusters, performance tuning, and monitoring. You will also work with the PostgreSQL optimizer, configure Postgres for high speed by looking at transactions, locking, indexes, and optimizing queries.
